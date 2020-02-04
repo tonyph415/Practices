@@ -9,6 +9,8 @@ public class LocateLoginPg {
 	By username = By.id("email");
 	By password = By.id("pass");
 	By loginbutton = By.xpath("//*[@id=\"u_0_2\"]");
+	By errInvalid = By.xpath("//*[@id=\\\"error_box\\\"]/div[1]");
+	By errEmpty = By.xpath("//*[@id=\"globalContainer\"]/div[3]/div/div/div");
 	
 	public LocateLoginPg(WebDriver driver) {
 		this.driver = driver;
@@ -22,5 +24,7 @@ public class LocateLoginPg {
 	public void loginToApp_Loginbutton() {
 		driver.findElement(loginbutton).click();
 	}
-	
+	public void fakeuser () {
+		
+	}
 }
