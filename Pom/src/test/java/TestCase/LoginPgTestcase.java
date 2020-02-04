@@ -11,7 +11,7 @@ public class LoginPgTestcase extends WrapperEx {
 	
 	@BeforeClass
 	public void startUp() {
-		launchApplication("firefox", "https://www.facebook.com/");
+		launchApplication("chrome", "https://www.facebook.com/");
 	}
 	
 	@Test

@@ -13,10 +13,10 @@ protected WebDriver driver;
 	public void launchApplication(String browser, String url) {
 		try {
 			if (browser.equalsIgnoreCase("firefox")) {
-				System.setProperty("webdriver.gecko.driver","C:\\Users\\tuand\\Desktop\\Testing\\WebDrivers\\geckodriver.exe");
+				System.setProperty("webdriver.gecko.driver","src\\main\\resources\\Drivers\\geckodriver.exe");
 				driver = new FirefoxDriver();
 			} else if (browser.equalsIgnoreCase("chrome")){
-				System.setProperty("webdriver.chrome.driver","C:\\Users\\tuand\\Desktop\\Testing\\WebDrivers\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver","src\\main\\resources\\Drivers\\chromedriver.exe");
 				driver = new ChromeDriver();
 			}
 		
