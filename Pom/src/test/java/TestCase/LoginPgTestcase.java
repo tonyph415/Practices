@@ -27,6 +27,7 @@ public class LoginPgTestcase extends WrapperEx {
         String actualTitle= driver.getTitle();
         Assert.assertEquals(expectedTitle,actualTitle);
         takescreenshot(driver);
+        driver.navigate().back();
 	}
 	@Test(priority=1)
 	public void loginInvalid() throws IOException {
@@ -38,6 +39,7 @@ public class LoginPgTestcase extends WrapperEx {
         String actualTitle= driver.getTitle();
         Assert.assertEquals(expectedTitle,actualTitle);
         takescreenshot(driver);
+        driver.navigate().back();
 	}
 	@Test (priority=2)
 	public void loginEmpty() throws IOException {
@@ -49,6 +51,7 @@ public class LoginPgTestcase extends WrapperEx {
         String actualTitle= driver.getTitle();
         Assert.assertEquals(expectedTitle,actualTitle);
         takescreenshot(driver);
+        driver.navigate().back();
 	}
 	@AfterClass
 	public void close() {

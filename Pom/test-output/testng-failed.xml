@@ -9,7 +9,6 @@
           <include name="loginInvalid"/>
           <include name="close"/>
           <include name="startUp"/>
-          <include name="loginEmpty"/>
         </methods>
       </class> <!-- TestCase.LoginPgTestcase -->
     </classes>
