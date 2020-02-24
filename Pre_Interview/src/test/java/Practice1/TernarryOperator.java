@@ -1,4 +1,4 @@
-package Login_Register;
+package Practice1;
 
 import java.util.Scanner;
 
