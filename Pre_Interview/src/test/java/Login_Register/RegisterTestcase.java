@@ -1,4 +1,4 @@
-package Practice1;
+package Login_Register;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
