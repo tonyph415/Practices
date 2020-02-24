@@ -1,0 +1,10 @@
+2020-02-05 05:10:47,467, 0(ms), [io.platform.project.commons.Common] - Environment Value for browser is equal to null
+2020-02-05 05:10:53,206, 5739(ms), [io.platform.project.commons.WebDriverManager] - Chrome Browser Chosen
+2020-02-05 05:10:57,333, 9866(ms), [io.platform.project.commons.WebDriverManager] - Driver Initialization successful
+2020-02-05 05:10:57,345, 9878(ms), [io.platform.project.commons.ReadPropertyFile] - Value in Property file for key homePageURL is https://www.wellsfargo.com/
+2020-02-05 05:11:03,523, 16056(ms), [io.platform.project.commons.Common] - Element is NOT visible
+2020-02-05 05:11:04,192, 16725(ms), [io.platform.project.commons.Common] - Screenshot taken
+2020-02-05 05:11:04,192, 16725(ms), [io.platform.project.commons.Common] - Home Page Title not equal to Wells Fargo – Banking, Credit Cards, Loans, Mortgages & More
+2020-02-05 05:11:08,322, 20855(ms), [io.platform.project.commons.Common] - Element is NOT visible
+2020-02-05 05:11:08,911, 21444(ms), [io.platform.project.commons.Common] - Screenshot taken
+2020-02-05 05:11:08,912, 21445(ms), [io.platform.project.commons.Common] - Home Page Title not equal to Wells Fargo – Banking, Credit Cards, Loans, Mortgages & More
