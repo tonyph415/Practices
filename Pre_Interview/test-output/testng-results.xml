@@ -2,80 +2,80 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="28840" started-at="2020-02-19T13:25:47 PST" finished-at="2020-02-19T13:26:16 PST">
+  <suite name="Default suite" duration-ms="29700" started-at="2020-02-24T13:32:51 PST" finished-at="2020-02-24T13:33:20 PST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="28840" started-at="2020-02-19T13:25:47 PST" finished-at="2020-02-19T13:26:16 PST">
+    <test name="Default test" duration-ms="29700" started-at="2020-02-24T13:32:51 PST" finished-at="2020-02-24T13:33:20 PST">
       <class name="Codility1.Testcase1">
-        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="4134" started-at="2020-02-19T13:25:47 PST" finished-at="2020-02-19T13:25:51 PST">
+        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="4678" started-at="2020-02-24T13:32:51 PST" finished-at="2020-02-24T13:32:55 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBr -->
-        <test-method status="PASS" signature="MainPageTitle()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="MainPageTitle" duration-ms="40" started-at="2020-02-19T13:25:51 PST" finished-at="2020-02-19T13:25:51 PST">
+        <test-method status="PASS" signature="MainPageTitle()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="MainPageTitle" duration-ms="30" started-at="2020-02-24T13:32:55 PST" finished-at="2020-02-24T13:32:55 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MainPageTitle -->
-        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="1004" started-at="2020-02-19T13:25:51 PST" finished-at="2020-02-19T13:25:52 PST">
+        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="1084" started-at="2020-02-24T13:32:55 PST" finished-at="2020-02-24T13:32:57 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBr -->
-        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3870" started-at="2020-02-19T13:25:52 PST" finished-at="2020-02-19T13:25:56 PST">
+        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3798" started-at="2020-02-24T13:32:57 PST" finished-at="2020-02-24T13:33:00 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBr -->
-        <test-method status="PASS" signature="mainscreen()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="mainscreen" duration-ms="32" started-at="2020-02-19T13:25:56 PST" finished-at="2020-02-19T13:25:56 PST">
+        <test-method status="PASS" signature="mainscreen()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="mainscreen" duration-ms="60" started-at="2020-02-24T13:33:00 PST" finished-at="2020-02-24T13:33:00 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mainscreen -->
-        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="898" started-at="2020-02-19T13:25:56 PST" finished-at="2020-02-19T13:25:57 PST">
+        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="1037" started-at="2020-02-24T13:33:00 PST" finished-at="2020-02-24T13:33:01 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBr -->
-        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3257" started-at="2020-02-19T13:25:57 PST" finished-at="2020-02-19T13:26:00 PST">
+        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3344" started-at="2020-02-24T13:33:01 PST" finished-at="2020-02-24T13:33:05 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBr -->
-        <test-method status="PASS" signature="verifyFeedbackResult()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="verifyFeedbackResult" duration-ms="377" started-at="2020-02-19T13:26:00 PST" finished-at="2020-02-19T13:26:00 PST">
+        <test-method status="PASS" signature="verifyFeedbackResult()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="verifyFeedbackResult" duration-ms="305" started-at="2020-02-24T13:33:05 PST" finished-at="2020-02-24T13:33:05 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFeedbackResult -->
-        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="930" started-at="2020-02-19T13:26:00 PST" finished-at="2020-02-19T13:26:01 PST">
+        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="1019" started-at="2020-02-24T13:33:05 PST" finished-at="2020-02-24T13:33:06 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBr -->
-        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3158" started-at="2020-02-19T13:26:01 PST" finished-at="2020-02-19T13:26:05 PST">
+        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3113" started-at="2020-02-24T13:33:06 PST" finished-at="2020-02-24T13:33:09 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBr -->
-        <test-method status="PASS" signature="verifyForbiddenQuery()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="verifyForbiddenQuery" duration-ms="343" started-at="2020-02-19T13:26:05 PST" finished-at="2020-02-19T13:26:05 PST">
+        <test-method status="PASS" signature="verifyForbiddenQuery()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="verifyForbiddenQuery" duration-ms="304" started-at="2020-02-24T13:33:09 PST" finished-at="2020-02-24T13:33:10 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyForbiddenQuery -->
-        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="931" started-at="2020-02-19T13:26:05 PST" finished-at="2020-02-19T13:26:06 PST">
+        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="1022" started-at="2020-02-24T13:33:10 PST" finished-at="2020-02-24T13:33:11 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBr -->
-        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3863" started-at="2020-02-19T13:26:06 PST" finished-at="2020-02-19T13:26:10 PST">
+        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3443" started-at="2020-02-24T13:33:11 PST" finished-at="2020-02-24T13:33:14 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBr -->
-        <test-method status="PASS" signature="verifyMatchResult()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="verifyMatchResult" duration-ms="359" started-at="2020-02-19T13:26:10 PST" finished-at="2020-02-19T13:26:10 PST">
+        <test-method status="PASS" signature="verifyMatchResult()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="verifyMatchResult" duration-ms="305" started-at="2020-02-24T13:33:14 PST" finished-at="2020-02-24T13:33:14 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMatchResult -->
-        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="1005" started-at="2020-02-19T13:26:10 PST" finished-at="2020-02-19T13:26:11 PST">
+        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="1046" started-at="2020-02-24T13:33:14 PST" finished-at="2020-02-24T13:33:15 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBr -->
-        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3195" started-at="2020-02-19T13:26:11 PST" finished-at="2020-02-19T13:26:14 PST">
+        <test-method status="PASS" signature="OpenBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="OpenBr" is-config="true" duration-ms="3841" started-at="2020-02-24T13:33:15 PST" finished-at="2020-02-24T13:33:19 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBr -->
-        <test-method status="PASS" signature="verifySearchRessult()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="verifySearchRessult" duration-ms="296" started-at="2020-02-19T13:26:14 PST" finished-at="2020-02-19T13:26:15 PST">
+        <test-method status="PASS" signature="verifySearchRessult()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="verifySearchRessult" duration-ms="302" started-at="2020-02-24T13:33:19 PST" finished-at="2020-02-24T13:33:19 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySearchRessult -->
-        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="1093" started-at="2020-02-19T13:26:15 PST" finished-at="2020-02-19T13:26:16 PST">
+        <test-method status="PASS" signature="closeBr()[pri:0, instance:Codility1.Testcase1@33cb5951]" name="closeBr" is-config="true" duration-ms="922" started-at="2020-02-24T13:33:20 PST" finished-at="2020-02-24T13:33:20 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBr -->

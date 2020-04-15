@@ -1,4 +1,4 @@
-package FBtest;
+package Dropdown;
 
 
 	import org.junit.runner.RunWith;
@@ -11,10 +11,10 @@ package FBtest;
 	@RunWith(Cucumber.class)
 	@CucumberOptions(
 			format = {"pretty", "json:target//cucumber.json"}, 
-			features = "C:\\Users\\tuand\\eclipse-workspace\\PracticeCucumber2\\src\\test\\java\\FBlogin\\Test.feature",
-			glue="C:\\Users\\tuand\\eclipse-workspace\\PracticeCucumber2\\src\\test\\java\\FBlogin\\TestStep.java")
+			features = "C:\\Users\\tuand\\git\\Practices\\CucumberDemo2\\src\\test\\java\\Dropdown\\Test.feature",
+			glue="C:\\Users\\tuand\\git\\Practices\\CucumberDemo2\\src\\test\\java\\Dropdown\\TestStep.java")
 
-	public class Runer_FBlogin
+	public class Runer_mercury
 	{
 	}
 	}

@@ -44,7 +44,7 @@ public class Basic {
 		    
 		 int w = 10;
 		 w += 5;
-		 System.out.println(w);
+		 System.out.println(w); //15
 		 
 		 
 		 int a1 =11;
